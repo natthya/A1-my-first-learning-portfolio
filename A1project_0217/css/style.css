@@ -1,0 +1,78 @@
+ body {
+    font-family:'Times New Roman', Times, serif ;
+    background-color: rgb(243, 239, 236);
+ }
+
+ h1 {
+        text-align:center;
+        font-size: 40px;
+        font-weight: bold;
+      
+}
+
+h2 {
+    font-size: 20px;
+    font-weight: bold;
+    text-indent: 20px;
+}
+#para1 {
+    font-size: 16px;
+    text-indent: 25px;
+    font-weight: lighter;
+}
+#para2 {
+    font-size: 16px;
+    text-indent: 25px;
+    font-weight: lighter;
+    text-align: left;
+}
+h3 {
+    font-size: 20px;
+    font-weight: bold;
+    text-indent: 20px;
+}
+#para3 {
+      font-size: 16px;
+    text-indent: 25px;
+    font-weight: lighter;
+}
+#para4 {
+    font-size: 16px;
+    text-indent: 20px;
+    font-weight: lighter;
+}
+#para5 {
+    font-size: 16px;
+    text-indent: 20px;
+    font-weight: lighter;
+}
+h4 {
+    font-size: 20px;
+    font-weight: bold;
+    text-indent: 20px;
+}
+#para6 {
+    font-size: 16px;
+    text-indent: 20px;
+    font-weight: lighter;
+}
+h5 {
+    font-size: 20px;
+    font-weight: bold;
+    text-indent: 20px;
+} 
+#para7 {
+    font-size: 16px;
+    text-indent: 40px;
+    font-weight: lighter;
+}
+h6 {
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+}
+#para8 {
+    font-size: 16px;
+    text-indent: 40px;
+    font-weight: lighter;
+}
